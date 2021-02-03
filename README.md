@@ -6,7 +6,7 @@ This file contain code as solution to the given problem.
 ## Problem : 1, 2, 1, 3, 2, 5, 3, 7, 5, 11, 8, 13, 13, 17, ... print this series in python language.
 ## Solution : 
 Looking above series, 
-1, 2, 
+1, 2, <br>
 1, 3, 
 2, 5, 
 3, 7, 
